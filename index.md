@@ -1,0 +1,1 @@
+* [Eigth takeaways from Kilian training](eighttakeawayskilian/article.md)
