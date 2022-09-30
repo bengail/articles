@@ -19,7 +19,7 @@ La semaine dernière, j'ai écrit une [introduction sur les données d'entraîne
 
 Après la parution de l'article, Kilian m'a envoyé un nouveau lien. Au cas où vous vous poseriez la question, mon top 3 : découvrir que j'allais être papa, mon mariage, Kilian qui se glisse dans mes DMs, dans l'ordre inverse d'importance.  
 
-J'ai cliqué sur le lien et les anges ont chanté : Kilian a écrit un [article](https://mtnath.com/training2022/) qui sera un pilier fondamental de la théorie de l’entraînement, ouvrant le coffre-fort à ses données, sa théorie et son état d'esprit. C'est presque sans précédent dans l'histoire des sports d'endurance – un athlète au sommet de ses capacités étant totalement transparent sur le comment et le pourquoi de son succès.  
+J'ai cliqué sur le lien et bam : Kilian a écrit un [article](https://mtnath.com/training2022/) qui sera un pilier fondamental de la théorie de l’entraînement, ouvrant le coffre-fort à ses données, sa théorie et son état d'esprit. C'est presque sans précédent dans l'histoire des sports d'endurance – un athlète au sommet de ses capacités étant totalement transparent sur le comment et le pourquoi de son succès.  
 
 L'exemple le plus récent auquel je puisse penser est l'entraînement de Nils van der Poel pour le patinage de vitesse (dont je parle [ici](https://www.trailrunnermag.com/training/trail-tips-training/the-wildly-cool-training-approach-of-speed-skating-gold-medalist-nils-van-der-poel/), le document de Nils peut se trouver [ici](https://www.howtoskate.se/)).  
 
@@ -32,17 +32,20 @@ Le GOAT veut que nous soyons tous la version GOAT de nous-mêmes.
 [Lisez son article complet](https://mtnath.com/training2022/), c'est brillant et important.
 Dans cet article, je vais fournir un contexte pour son entraînement, en insistant sur huit points qui sont pertinents pour tout le monde.
 
-### L'année 2022 de Kilian était absolument stupéfiante.
+---
+
+## L'année 2022 de Kilian était absolument stupéfiante.
 
 Même en tant que fanboy ultime, je trouve époustouflant qu'un athlète soit le meilleur coureur de montagne courte distance (record du parcours à Zegama) *et* le meilleur coureur de montagne longue distance (record du parcours à l'UTMB) la même année. La réponse facile à sa domination est de dire qu'il est génétiquement au-dessus. Mais au très au niveau, c'est toujours une compétition entre des sportifs génétiquement exceptionnels, et les différences génétiques ne suffisent pas à elles seules à expliquer une domination comme celle de Kilian en 2022. En lisant son article, il est clair qu'il a gagné en 2022 avec une vision méthodique et centrée sur des processus de longue durée et une croissance à long terme à travers des décennies d'entraînement intensif.  
 
 Sur notre [podcast](https://open.spotify.com/episode/6b7YuYZ5cEZI5HMRHSqoi1?si=ca9901ecb8bd4076), il a expliqué comment sa manière de s’entraîner avait fondamentalement évolué en 2018 et 2019, coïncidant avec la naissance de son premier enfant. Au lieu de longues journées en montagnes en zone 2, il s'est  tourné vers une distribution d'intensité différente, mettant l'accent sur un volume facile et des entraînements ciblés. Il a fait ces changements sans entraîneur (bien qu'il travaille avec le physiologiste de sport Jesús Álvarez-Herms) et s'est transformé en expert en physiologie de l'exercice et en théorie de l'entraînement, appliquant ce qu'il a appris et apportant des modifications en fonction de ce qui a fonctionné pour lui.  
+  
 
 Il est temps de s'y mettre ! Plongeons-nous dans 8 points à retenir d'un résumé d'entraînement qui façonnera le sport pour les années à venir.
 
 ---
 
-## Un : L'entraînement est un processus à long terme ou la régularité et le développement aérobie sont primordiaux.
+# **Un** : L'entraînement est un processus à long terme ou la régularité et le développement aérobie sont primordiaux.
 
 Un chiffre impressionnant est le volume d'entraînement hebdomadaire de Kilian depuis avril 2009. Bien qu'il y ait des écarts, la plupart des semaines font en moyenne environ 20 heures, réparties entre la course, le ski, le vélo et d'autres sports. Il y a de grandes hausses de skimo en hiver et de course à pied à partir du printemps, son entraînement suivant un cycle saisonnier.  
 
@@ -54,7 +57,7 @@ Kilian a régulièrement effectué en moyenne plus de 1000 heures d'entraînemen
 
 ---
 
-## Deux : la plupart de ses entraînements sont très faciles, avec une distribution d'intensité pyramidale.
+# **Deux** : la plupart de ses entraînements sont très faciles, avec une distribution d'intensité pyramidale.
 
 C'est maintenant le moment pour chaque athlète de prêter attention aux conseils spécifiques du GOAT. Vous entendez dire que la plupart des entraînements devraient être faciles, mais qu'est-ce que cela signifie réellement?  
 
@@ -81,7 +84,7 @@ Ce qui est fascinant dans la recherche, c'est qu'une approche avec une proportio
 
 ---
 
-## Trois : Kilian périodise son entraînement tout au long de l'année, avec une période de base aérobie précédant des blocs d'entraînement spécifiques.
+# **Trois** : Kilian périodise son entraînement tout au long de l'année, avec une période de base aérobie précédant des blocs d'entraînement spécifiques.
 
 
 L'hiver de Kilian se passe sur les skis, où il est un athlète de skimo de classe mondiale. De décembre à mars, il faisait 2 à 4 heures sur des skis (principalement dans la zone 2) le matin, suivis d'une course facile de 40 à 60 minutes sur tapis roulant l'après-midi. Ses graphiques d'entraînement ne montrent aucun entraînement difficile pendant tout ce temps. Fait intéressant, il a fait une course de 100 milles en février pour tester le ravitaillement. Même si je pense que l'approche de Kilian peut servir à tous, faire une course de 100 miles sur une période quasiment uniquement basée sur du ski est peut-être une chose que lui seul peut faire. C'est comme la [compression blanche à la Western States](https://s3.amazonaws.com/www.irunfar.com/wp-content/uploads/2021/06/16124928/Kilian-Jornet-2010-Western-States-1.jpg), c'est pas pour tout le monde.  
@@ -92,13 +95,13 @@ Cette période de base vient renforcer un système aérobie déjà monstrueux. L
 
 Renforcer une base aérobie tout au long de l'année est essentiel pour tous les athlètes d'endurance, et il peut être utile d'avoir un bloc de développement aérobie plus ciblé hors saison. Cet hiver en coaching, motivé par Kilian et Nils, je vais me concentrer davantage sur des [périodes de base aérobie dédiées](https://www.trailrunnermag.com/training/trail-tips-training/what-it-means-to-base-build-and-how-to-do-it/), en particulier pour les athlètes d'élite. Pour les athlètes qui n'ont pas l'expérience de  Kilian ni sa VO2 max, cela peut inclure une petite quantité d'intensité comme dans un modèle Lydiard classique, en mettant l'accent sur les adaptations mécaniques pour gérer un travail plus rapide (comme des exercices en côte (hill strides)).  
 
-Kilian a gardé vision "aérobique-centrée" même lors de l'entraînement pour des courses courtes comme Zegama. Les avantages s'accumulent au fil du temps, alors continuez à empiler ces briques.  
+Kilian a gardé vision « aérobique-centrée » même lors de l'entraînement pour des courses courtes comme Zegama. Les avantages s'accumulent au fil du temps, alors continuez à empiler ces briques.  
 
 ![Kilian à Notre Dame de la Gorge](ndg.webp)
 
 ---
 
-## Quatre : La plupart de ses séances d'entraînement étaient relativement courtes, mais avec des tonnes de doubles.
+# **Quatre** : La plupart de ses séances d'entraînement étaient relativement courtes, mais avec des tonnes de doubles.
 
 Un grand changement dans la vie de Kilian a eu lieu lorsqu'il est devenu papa il y a quelques années. Son épouse Emelie Forsberg est elle-même l'une des GOAT, et ils équilibrent les exigences de la vie de famille, de leur travail et de l’entraînement en équipe. En pratique, cela signifie que l'un a le bloc du matin, l'autre le bloc de l'après-midi, puis leurs nuits sont libres une fois que les enfants se sont endormis.  
 
@@ -108,9 +111,11 @@ La réponse est en [doublant](https://www.trailrunnermag.com/training/trail-tips
 
 La question en suspens est de savoir si d'autres athlètes d'ultra distance pourraient exceller avec si peu d'efforts extra-longs à l'entraînement. Kilian a effectué tellement d'ultra et de longues séances qu'il n'a aucun doute sur ses capacités aérobies ou sur la façon dont son corps réagira à la fin des courses. La plupart d'entre nous entrons dans l'inconnu, mais rien n'est inconnu pour Kilian. Fait intéressant, cette approche axée sur la fréquence d'entraînement pour accumuler du volume plutôt que sur des journées surdimensionnées se retrouve également dans une partie de l'entraînement de la championne d'ultra Camille Herron (et d'autres), il est donc possible que de très longs efforts soient une partie surestimée de l'entraînement ultra.  
 
+![Kilian et Mathieu](mathieu-and-killan.jpeg)
+
 ---
 
-## Cinq : Kilian fait des entraînements qui se concentrent sur les exigences spécifiques de ses événements.
+# **Cinq** : Kilian fait des entraînements qui se concentrent sur les exigences spécifiques de ses événements.
 
 Il est maintenant temps de faire du workout-porn. Je sais que Kilian ne veut pas que nous lisions trop profondément dans une session spécifique, mais celles-ci sont trop bonnes pour les laisser passer. Il regroupe ses séances en 3 groupes : *vitesse*, *seuil* et *tempo*.  
 
@@ -124,7 +129,7 @@ La simplicité magique de l'entraînement de Kilian est qu'il s'agit en généra
 
 ---
 
-## Six : La majeure partie de son entraînement aérobique se déroule sur des sentiers escarpés et techniques.
+# **Six** : La majeure partie de son entraînement aérobique se déroule sur des sentiers escarpés et techniques.
 
 Alors que Kilian fait régulièrement des entraînements modérés / durs sur des terrains plats ou des sentiers non techniques, bon nombre de ses courses faciles se déroulent sur les sentiers où il vit en Norvège. Le simple fait de regarder une photo de ces sentiers me donne un ulcère de stress - ils sont raides et techniques d'une manière rarement vue aux États-Unis en dehors des voies d'escalade.  
 
@@ -134,15 +139,17 @@ Assurez-vous que vous ne sacrifiez pas votre efficacité / rendement dans vos se
 
 ---
 
-## Sept : Le travail de force ne fait pas partie de son entraînement.
+# **Sept** : Le travail de force ne fait pas partie de son entraînement.
 
 Je sais que vous savez que je ne suis pas un grand fan d'un trop grand focus sur le renforcement musculaire. Mais mon point de vue est largement dépassé par celui de Kilian. *« Je ne fais pas de séances de musculation »*, dit-il. *« Ayant peu de temps  pour l'entraînement, je pense que le stress causé au corps par le renforcement musculaire serait trop important pour pouvoir donner le meilleur lors des séances de course à pied ou de ski, et c'est sur ces dernières que je veux mettre l'accent car elles sont plus spécifiques. »*  
 
 Cependant, il est important de noter que le ski est un peu comme une longue séance de musculation, et la façon dont Kilian effectue ces séances de côtes est similaire à la pliométrie. Il peut donc jouer avec des règles différentes que celles de la plupart des athlètes. J'aime un [programme à dose minimale](https://www.trailrunnermag.com/training/trail-tips-training/minimal-dose-resistance-training/), axé sur le moins possible pour obtenir les adaptations nécessaires, [à peine quelques minutes](https://www.trailrunnermag.com/trainingtrail-tips-training/the-busy-runners-weekly-strength-and-mobility-plan/) 2 à 3 fois par semaine.
 
+![Podium](podium1.jpeg)
+
 ---
 
-## Huit: C'est le process qui est important.
+# **Huit** : C'est le process qui est important.
 
 Vers la fin de notre podcast, nous avons demandé à Kilian quel conseil il donnerait à un jeune pro. Nous avions plongé profondément dans la théorie de l’entraînement, alors j'essayais de lui poser une question pour qu'il révèle son secret méthodologique ultime. Au lieu de cela, il a détourné quelque peu la conversation.  
 
