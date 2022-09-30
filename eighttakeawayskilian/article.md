@@ -101,7 +101,7 @@ Kilian a gardé vision « aérobique-centrée » même lors de l'entraînement p
 
 ---
 
-# **Quatre** : La plupart de ses séances d'entraînement étaient relativement courtes, mais avec des tonnes de doubles.
+# **Quatre** : La plupart de ses séances d'entraînement étaient relativement courtes, mais avec en doublant quasi quotidiennement.
 
 Un grand changement dans la vie de Kilian a eu lieu lorsqu'il est devenu papa il y a quelques années. Son épouse Emelie Forsberg est elle-même l'une des GOAT, et ils équilibrent les exigences de la vie de famille, de leur travail et de l’entraînement en équipe. En pratique, cela signifie que l'un a le bloc du matin, l'autre le bloc de l'après-midi, puis leurs nuits sont libres une fois que les enfants se sont endormis.  
 
