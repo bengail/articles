@@ -6,7 +6,11 @@ Ils ont aussi un podcast avec sa compagne, un peu bordélique mais intéressant 
 Ils ont par exemple sur le même thème :
 * [une interview de Kilian](https://open.spotify.com/episode/6b7YuYZ5cEZI5HMRHSqoi1?si=7e3c4fa9501b4d15) ;
 * [un discussion autour de l'UTMB de Kilian](https://open.spotify.com/episode/4rcdLZ6z2d0ESWnvuDpMcs?si=ce03d22012e24b11).
- 
+
+---
+
+![Kilian sur la ligne d’arrivée](utmb1.webp)
+
 ## Huit points à retenir des données d'entraînement 2022 de Kilian Jornet  
 
 Kilian Jornet vient de publier un résumé de ses données d'entraînement et de ses pratiques pour l'ensemble de 2022. Son article est destiné à être un guide légendaire pour réfléchir à la théorie de l'entraînement et à ce qu'il faut faire pour avoir la meilleure saison de tous les temps.  
@@ -41,7 +45,6 @@ Un chiffre impressionnant est le volume d'entraînement hebdomadaire de Kilian d
 À l'extrême droite du graphique se trouve un cercle rouge microscopique englobant 2022. C'est une visualisation frappante de la façon dont notre cerveau peut penser à court terme, mais nos corps jouent sur des échelles de temps beaucoup plus longues.
 *"Il n'y a pas de séance magique qui vous rendra meilleur ou un programme d'entraînement qui fonctionnera pour tout le monde"*, dit-il. *"Mais les adaptations proviennent de la répétition des stimuli d'entraînement (régularité) et de l'individualisation de ces stimuli."*
 Kilian a régulièrement effectué en moyenne plus de 1000 heures d'entraînement par an, principalement faciles, dans plusieurs sports. Ses racines aérobies sont profondes. Pour nous tous, le premier principe de l'entraînement d'endurance est d'accumuler un volume facile au fil du temps. La base de toutes les performances de 800 mètres à plus de 200 milles est la façon dont le système aérobie traite l'énergie et la fatigue associée. Cette capacité vient de la régularité d'un entraînement facile.  
-
 
 ## Deux : la plupart de ses entraînements sont très faciles, avec une distribution d'intensité pyramidale.
 
@@ -80,6 +83,8 @@ Cette période de base vient renforcer un système aérobie déjà monstrueux. L
 Renforcer une base aérobie tout au long de l'année est essentiel pour tous les athlètes d'endurance, et il peut être utile d'avoir un bloc de développement aérobie plus ciblé hors saison. Cet hiver en coaching, motivé par Kilian et Nils, je vais me concentrer davantage sur des [périodes de base aérobie dédiées](https://www.trailrunnermag.com/training/trail-tips-training/what-it-means-to-base-build-and-how-to-do-it/), en particulier pour les athlètes d'élite. Pour les athlètes qui n'ont pas l'expérience de  Kilian et la VO2 max, cela peut inclure une petite quantité d'intensité comme dans un modèle Lydiard classique, en mettant l'accent sur les adaptations mécaniques pour gérer un travail plus rapide (comme des exercices en côte (hill strides)).  
 
 Kilian a gardé vision "aérobique-centrée" même lors de l'entraînement pour des courses courtes comme Zegama. Les avantages s'accumulent au fil du temps, alors continuez à empiler ces briques.  
+
+![Kilian à Notre Dame de la Gorge](ndg.webp)
 
 ## Quatre : La plupart de ses séances d'entraînement étaient relativement courtes, mais avec des tonnes de doubles.
 
