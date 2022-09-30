@@ -19,7 +19,7 @@ La semaine dernière, j'ai écrit une [introduction sur les données d'entraîne
 
 Après la parution de l'article, Kilian m'a envoyé un nouveau lien. Au cas où vous vous poseriez la question, mon top 3 : découvrir que j'allais être papa, mon mariage, Kilian qui se glisse dans mes DMs, dans l'ordre inverse d'importance.  
 
-J'ai cliqué sur le lien et bam : Kilian a écrit un [article](https://mtnath.com/training2022/) qui sera un pilier fondamental de la théorie de l’entraînement, ouvrant le coffre-fort à ses données, sa théorie et son état d'esprit. C'est presque sans précédent dans l'histoire des sports d'endurance – un athlète au sommet de ses capacités étant totalement transparent sur le comment et le pourquoi de son succès.  
+J'ai cliqué sur le lien et bam : Kilian a écrit un [article](https://mtnath.com/training2022/) qui sera un pilier fondamental de la théorie de l’entraînement, levant le voile sur ses données, sa théorie et son état d'esprit. C'est presque sans précédent dans l'histoire des sports d'endurance – un athlète au sommet de ses capacités étant totalement transparent sur le comment et le pourquoi de son succès.  
 
 L'exemple le plus récent auquel je puisse penser est l'entraînement de Nils van der Poel pour le patinage de vitesse (dont je parle [ici](https://www.trailrunnermag.com/training/trail-tips-training/the-wildly-cool-training-approach-of-speed-skating-gold-medalist-nils-van-der-poel/), le document de Nils peut se trouver [ici](https://www.howtoskate.se/)).  
 
