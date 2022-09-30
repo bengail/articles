@@ -51,7 +51,7 @@ Un chiffre impressionnant est le volume d'entraînement hebdomadaire de Kilian d
 
 À l'extrême droite du graphique se trouve un cercle rouge microscopique englobant 2022. C'est une visualisation frappante de la façon dont notre cerveau peut penser à court terme, mais nos corps jouent sur des échelles de temps beaucoup plus longues.  
 
-*«Il n'y a pas de séance magique qui vous rendra meilleur ou un programme d'entraînement qui fonctionnera pour tout le monde»*, dit-il. *«Mais les adaptations proviennent de la répétition des stimuli d'entraînement (régularité) et de l'individualisation de ces stimuli.»*  
+*« Il n'y a pas de séance magique qui vous rendra meilleur ou un programme d'entraînement qui fonctionnera pour tout le monde »*, dit-il. *« Mais les adaptations proviennent de la répétition des stimuli d'entraînement (régularité) et de l'individualisation de ces stimuli. »*  
 
 Kilian a régulièrement effectué en moyenne plus de 1000 heures d'entraînement par an, principalement faciles, dans plusieurs sports. Ses racines aérobies sont profondes. Pour nous tous, le premier principe de l'entraînement d'endurance est d'accumuler un volume facile au fil du temps. La base de toutes les performances de 800 mètres à plus de 200 miles est la façon dont le système aérobie traite l'énergie et la fatigue associée. Cette capacité vient de la régularité d'un entraînement facile.  
 
